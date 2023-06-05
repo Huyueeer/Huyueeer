@@ -17,3 +17,5 @@
 </p>
 
 ![](https://raw.githubusercontent.com/LiangYang666/LiangYang666/output/github-contribution-grid-snake.svg)
+    
+:page_with_curl: 技术流程积累；:pencil2: 挖坑问题记录；:golf: 促使习惯养成；:bank: 定期实践巩固；:dart: 达成短期目标；:chart_with_upwards_trend: 规划长远发展；
